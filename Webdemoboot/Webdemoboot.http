@@ -1,0 +1,6 @@
+@Webdemoboot_HostAddress = http://localhost:5268
+
+GET {{Webdemoboot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
